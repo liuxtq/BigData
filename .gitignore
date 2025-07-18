@@ -1,2 +1,4 @@
 /.idea/
 /hdfs/target/
+/mapreduce/target/
+/data/output/

@@ -11,6 +11,8 @@
     <packaging>pom</packaging>
     <modules>
         <module>hdfs</module>
+        <module>yarn</module>
+        <module>mapreduce</module>
     </modules>
 
     <properties>
